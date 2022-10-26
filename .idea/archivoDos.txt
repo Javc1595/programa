@@ -1,1 +1,1 @@
-Este archivo es un archivo de la rama paralela.
+Este  es un archivo de la  rama paralela.
